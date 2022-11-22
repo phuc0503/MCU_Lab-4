@@ -1,0 +1,3 @@
+../Core/Src/sched.c:9:6:SCH_Add_Task	24	static
+../Core/Src/sched.c:23:6:SCH_Update	16	static
+../Core/Src/sched.c:34:6:SCH_Dispatch_Tasks	16	static
